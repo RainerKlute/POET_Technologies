@@ -10,7 +10,7 @@ Ich möchte den Aktionären einen Einblick geben, wie wir über das Unternehmen,
 
 Im Jahr 2024 konnte POET seine Bilanz um ca. 29 Millionen Dollar aufstocken und damit seine finanzielle Stabilität erheblich verbessern, unter anderem durch Privatplatzierungen, ATM-Aktienverkäufe und Ausübung von Optionsscheinen. Dies hat POET in die Lage versetzt, seine Roadmap neu zu beleben und die notwendigen Investitionen zu tätigen, um seine Produkt-Roadmap in eine Roadmap umzuwandeln, die explizit auf die wachsenden Anforderungen ausgerichtet ist, die die KI an die Hardware-Infrastruktur stellt. Während wir bei unseren Finanzkennzahlen bedeutende Fortschritte gemacht haben, freuen wir uns am meisten über die fortgesetzte Produktentwicklung und das Engagement unserer Kunden an unserem Geschäft.
 
-## KI - der Katalysator
+## KI – der Katalysator
 
 Aber lassen Sie uns zunächst über die Märkte sprechen, die wir bedienen. Generative KI ist vielleicht die größte technologische Veränderung seit der Cloud, die selbst noch in den Kinderschuhen steckt, und vielleicht seit dem Internet. KI ist das, was wir bei POET als den Markttreiber für Photonik 3.0 bezeichnet haben, eine Welle des Photonik-Wachstums, die durch den unersättlichen Datenbedarf der generativen KI angetrieben wird.
 
@@ -30,7 +30,7 @@ Wir sind in der glücklichen Lage, an Märkten mit bemerkenswerten Aussichten te
 
 In Kürze erfahren Sie mehr über eine bemerkenswerte **Auszeichnung der KI-Branche**, die wir gewonnen haben und die POETs architektonische Vorteile im Bereich der KI hervorhebt und uns mehr Bestätigung und Aufmerksamkeit von Dritten verschafft.
 
-## Grundlagen für schnelles Umsatzwachstum - Kunden, Partner und Produkte
+## Grundlagen für schnelles Umsatzwachstum – Kunden, Partner und Produkte
 
 Vor diesem Hintergrund legen wir mit dem, was wir jetzt tun, den Grundstein für ein schnelles Umsatzwachstum in den Jahren 2025 und 2026. Jedes erfolgreiche Unternehmen muss sich auf drei Vektoren konzentrieren: Schlüsselkunden, Schlüsselpartner sowie Schlüsselprodukte und Entwicklung. Letztes Jahr haben wir unsere Zusammenarbeit mit **Luxshare** mit einem Design-In unserer 2xFR4-800-G-RX-Engines angekündigt. In diesem Jahr haben wir diese Beziehung auf unsere differenzierten EML-basierten Transmit-Lösungen ausgeweitet. Ebenso haben wir in diesem Jahr eine Vereinbarung mit **Foxconn**, einem der weltweit führenden Modullieferanten, bekannt gegeben.
 
