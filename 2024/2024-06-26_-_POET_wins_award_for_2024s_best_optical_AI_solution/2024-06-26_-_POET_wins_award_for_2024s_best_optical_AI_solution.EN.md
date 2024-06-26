@@ -1,4 +1,4 @@
-**Interview Transcript: Dr. Suresh Venkatesan on POET Technologies' Achievement**
+# Interview Transcript: Dr. Suresh Venkatesan on POET Technologies winning in the AI Breakthrough Awards and being named winner of the 2024 Best Optical AI Solution category
 
 Source: <https://www.youtube.com/watch?v=5FCxP4GdokI>
 
