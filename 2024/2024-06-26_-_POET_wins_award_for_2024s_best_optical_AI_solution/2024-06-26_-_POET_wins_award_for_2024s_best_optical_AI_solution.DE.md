@@ -1,6 +1,7 @@
 # Interview Transcript: Dr. Suresh Venkatesan über den Erfolg von POET Technologies bei den AI Breakthrough Awards und die Ernennung zum Gewinner in der Kategorie »Beste optische KI-Lösung« 2024
 
-Quelle: <https://www.youtube.com/watch?v=5FCxP4GdokI>
+- Quelle: <https://www.youtube.com/watch?v=5FCxP4GdokI>
+- Pressemitteilung: <https://poet-technologies.com/news/2024-jun-26.html>
 
 **Adrian Brijbassi:** POET Technologies wurde im Rahmen der AI Breakthrough Awards zum Gewinner der Kategorie "Beste optische KI-Lösung 2024" gekürt. Der Vorstandsvorsitzende und CEO von POET, Dr. Suresh Venkatesan, spricht über diesen Erfolg. Suresh, schön, Sie wiederzusehen! Das sind aufregende Neuigkeiten. Sagen Sie uns, was bedeutet der Gewinn dieses Preises für das Unternehmen?
 
