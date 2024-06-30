@@ -9,7 +9,7 @@
 
 We’ve been able to bring strong, solid collaborators to work with us. We announced our partnerships with Luxshare last year, expanding that into new products with them. We announced a partnership and collaboration with Foxconn, and they’re going to be deploying our optical engines into their product lines. And we also announced a collaboration with MultiLane to co-develop modules for 800G and 1.6T.
 
- All of these collaborations and partnerships are of course also third-party validations of our technology, and gotten the attention of the awards jury and many others. We expect more successes as our technology is adopted by these partners and commercially deployed by our customers.
+All of these collaborations and partnerships are of course also third-party validations of our technology, and gotten the attention of the awards jury and many others. We expect more successes as our technology is adopted by these partners and commercially deployed by our customers.
 
 **Adrian Brijbassi:** The award is a recognition specifically of the POET Optical Interposer, as you said. For you personally, as the developer of the technology, how does it feel to have this third-party validation of your work?
 
