@@ -1,6 +1,7 @@
 # Interview transcript: POET updates on customer progress as CIOE 2024 nears
 
 - Source: <https://www.youtube.com/watch?v=tuu10gJbCNkI>
+- Press release: <https://www.globenewswire.com/en/news-release/2024/09/05/2941374/0/en/POET-to-Demonstrate-Leading-Edge-Optical-Engines-for-AI-Market-at-CIOE-2024.html>
 
 **Adrian Brijbassi:** POET is at a busy few months with growing interest from customers and more technological achievements. Here to discuss some of the happenings is Raju Kankipati, the company’s Senior VP of Product Management and North America General Manager. Raju, you’ve had quite a busy summer.
 
