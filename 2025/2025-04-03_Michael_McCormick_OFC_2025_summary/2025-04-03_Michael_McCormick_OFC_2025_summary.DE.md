@@ -1,4 +1,4 @@
-# OFC 2025 Zusammenfassung
+# OFC 2025: Zusammenfassung
 
 Quelle: [**OFC Summary**](https://agoracom.com/ir/POETTechnologies/forums/discussion/topics/809555-OFC-Summary/messages/2434912), veröffentlicht am 2025-04-04T00:52-04:00 von Michael McCormick (Benutzer [poetmmc](https://agoracom.com/members/poetmmc) auf Agoracom), bearbeitet von Rainer Klute. Siehe auch Michaels folgende Beiträge auf Agoracom:
 
