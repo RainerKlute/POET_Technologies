@@ -1,14 +1,15 @@
 # POET Technologies AGSM 2025 (Transcript of the informal part)
 
 Source: <https://apps.computershare.com/MeetingsShareholderWeb/Meeting?Code=MA7YKL7>
+Video: <https://www.youtube.com/watch?v=ubfptCioXUA>
 
 **Glen Riley:** As we move into the informal portion of today’s meeting, the company is pleased to share an inspiring and informative video. Immediately following the video, our CEO, Dr. Suresh Venkatesan, will offer his concluding remarks, after which we will open the floor for a question and answer session. If you have any questions or comments, please submit them through the meeting platform. But we kindly ask that you wait until the presentation has concluded.
 
-We now invite you to enjoy this special video presentation entitled, “A Triumphant Transformation”.
+We now invite you to enjoy this special video presentation entitled, [“A Triumphant Transformation”](https://www.youtube.com/watch?v=ubfptCioXUA).
 
 ---
 
-## Video Presentation: “A Triumphant Transformation”
+## Video presentation: “A Triumphant Transformation”
 
 **Narrator:** In the second quarter of 2025, POET rapidly created a full production facility in the beating heart of the semiconductor manufacturing industry. The company opened the doors to an 8,000 square foot production floor in Malaysia that holds state-of-the-art equipment and provides every tool necessary to produce one million POET optical engines per year. Those engines will drive the next generation of hardware devices for the AI and data center markets.
 
@@ -74,19 +75,21 @@ This is exciting, and it gives us a vehicle to deploy our technology more broadl
 
 Our customer base continues to expand. AdTran is progressing steadily with their module design and has been adding some of the largest end-customers to their growing list of design-ins. We’re proud to be part of that value chain.
 
-Luxshare Tech and Foxconn Interconnect Technology continue to be highly engaged partners, and we’re expanding our portfolio of potential products with them, as they sample our products and work with our team on customized solutions. Lessengers is a new customer announced during our successful appearance at this year’s OFC conference. They’ve completed their module design, and we’re starting to provide them with additional optical engines so that they can complete their qualification.
+Luxshare Tech and Foxconn Interconnect Technology continue to be highly engaged partners, and we’re expanding our portfolio of potential products with them, as they sample our products and work with our team on customized solutions.
 
-They’re a client we can grow as they expand their product portfolio as well. We initiated our first shipments to Celestial AI and expect to ship to our outstanding purchase orders this year with NationGate as our module bring-up partner.
+Lessengers is a new customer announced during our successful appearance at this year’s OFC conference. They’ve completed their module design, and we’re starting to provide them with additional optical engines so that they can complete their qualification. They’re a client we can grow as they expand their product portfolio as well.
+
+We initiated our first shipments to Celestial AI and expect to ship to our outstanding purchase orders this year with NationGate as our module bring-up partner.
 
 Even while we work towards succeeding generations of the solution for improved scale and cost, we now have sample purchase orders across more than 10 customer engagements, and we’re working tirelessly to fulfill that demand, even as we finalize qualification of our new production facility.
 
 ### Strengthening manufacturing and supply chain capabilities
 
-From an operational and manufacturing standpoint, this year marked the start of qualification for our new optical engine manufacturing facility, a key enabler of our scale up strategy.
+From an operational and manufacturing standpoint, this year marked the start of qualification for our new optical engine manufacturing facility, a key enabler of our scale up strategy. The facility housed in Globetronics is designed for flexibility and high yield, and supports both internal production and customer-specific module assembly. This is a key element in meeting both immediate backlog and future volume requirements. Early results have been highly promising in terms of yield and performance.
 
-The facility housed in Globetronics is designed for flexibility and high yield, and supports both internal production and customer-specific module assembly. This is a key element in meeting both immediate backlog and future volume requirements. Early results have been highly promising in terms of yield and performance. We’re also strengthening our strategic partnerships with industry leading OSATs and module integrators to ensure supply chain readiness and scalability.
+We’re also strengthening our strategic partnerships with industry leading OSATs and module integrators to ensure supply chain readiness and scalability. This includes a partnership with NationGate, a leading contract manufacturer, for POET’s fiber attach solutions and our external light source module assembly. More on that in a moment.
 
-This includes a partnership with NationGate, a leading contract manufacturer, for POET’s fiber attach solutions and our external light source module assembly. More on that in a moment. With Globetronics and NationGate, POET can produce more than 1 million units per year, and that will be the minimum needed based on the robust and enthusiastic feedback we have received from customers as they integrate our optical engines into their devices and witness for themselves the exceptional results.
+With Globetronics and NationGate, POET can produce more than 1 million units per year, and that will be the minimum needed based on the robust and enthusiastic feedback we have received from customers as they integrate our optical engines into their devices and witness for themselves the exceptional results.
 
 ### Technical advances in the optical interposer platform
 
@@ -98,9 +101,9 @@ These innovations reinforce POET’s leadership in hybrid photonic integration a
 
 One of the more exciting developments this year has been the creation of our Smart FAU, or Smart Flex Alignment Unit. This is a novel integration concept that dramatically simplifies the incorporation of optical isolators, whether in module assembly or in external light source packaging.
 
-It sits at the output of our optical engine and significantly reduces complexity and cost, especially in high channel count applications. Smart FAUs will be produced in collaboration with NationGate by the end of this year, and we expect them to become a key differentiator in high-volume module designs. We also continue to make good progress with our Blazar solution, which is a novel laser architecture designed for low-cost, multi-wavelength applications.
+It sits at the output of our optical engine and significantly reduces complexity and cost, especially in high channel count applications. Smart FAUs will be produced in collaboration with NationGate by the end of this year, and we expect them to become a key differentiator in high-volume module designs.
 
-Blazar, in conjunction with the Smart FAU, promises to dramatically reduce cost and complexity of external light sources, which will go through significant growth starting in 2027. Innovation remains our engine. We’ve expanded our patent portfolio with several new filings over the past year, covering not just the core of our optical interposer, but also new device concepts like the Smart FAU, integration architectures, and advanced packaging techniques.
+We also continue to make good progress with our Blazar solution, which is a novel laser architecture designed for low-cost, multi-wavelength applications. Blazar, in conjunction with the Smart FAU, promises to dramatically reduce cost and complexity of external light sources, which will go through significant growth starting in 2027. Innovation remains our engine. We’ve expanded our patent portfolio with several new filings over the past year, covering not just the core of our optical interposer, but also new device concepts like the Smart FAU, integration architectures, and advanced packaging techniques.
 
 ### IP expansion and positioning for 3.2T
 
@@ -110,9 +113,10 @@ We cannot be happier with our current engagement and position in the ecosystem.
 
 ### Industry recognition and awards
 
-In the past year, POET Technologies has not only advanced technologically, we’ve also been honored by the broad industry for our innovation impact and leadership. Here are two of the accolades we proudly received, the 2025 LightWave plus BTR Innovation Award.
+In the past year, POET Technologies has not only advanced technologically, we’ve also been honored by the broad industry for our innovation impact and leadership. Here are two of the accolades we proudly received.
 
-Our Teralight 1.6T optical engine received top honors in this joint award program for its ability to deliver scalability, energy efficiency, and integration flexibility for hyperscale data centers and AI workloads. 2025 AI Breakthrough Award for Hardware Innovation. POET was named among the top innovators enabling next-generation AI infrastructure, with specific recognition for our ability to reduce optical interconnect complexity while increasing bandwidth density.
+- The 2025 LightWave plus BTR Innovation Award: Our Teralight 1.6T optical engine received top honors in this joint award program for its ability to deliver scalability, energy efficiency, and integration flexibility for hyperscale data centers and AI workloads.
+- 2025 AI Breakthrough Award for Hardware Innovation: POET was named among the top innovators enabling next-generation AI infrastructure, with specific recognition for our ability to reduce optical interconnect complexity while increasing bandwidth density.
 
 These 2025 awards build on a strong foundation of prior recognition. Together, these honors validate not just what we’re building, but how we’re building it with technical leadership, strategic foresight, and a focus on solving the most pressing challenges in high-speed optical connectivity.
 
@@ -134,7 +138,7 @@ Our technology continues to evolve with market-leading innovations, and we’re 
 
 In the coming year, our priorities include converting design wins into volume production contracts, completing customer qualifications and shipping initial volumes, scaling up our manufacturing operations, qualifying our new manufacturing facility, and optimizing costs, and expanding our product portfolio to include multi-wavelength and co-packaged optic solution using Blazar and Smart FAU innovations. We have a clear vision, strong momentum, and unwavering commitment from a world-class team.
 
-None of this would be possible without the extraordinary dedication of the POET team, the guidance of our board, and the confidence of our shareholders. We’re building something rare and valuable, a platform company at the frontier of photonics. And we’re doing it with integrity, vision, and resolve. Thank you for being on this journey with us.
+None of this would be possible without the extraordinary dedication of the POET team, the guidance of our board, and the confidence of our shareholders. We’re building something rare and valuable, a platform company at the frontier of photonics. And we’re doing it with integrity, vision, and resolve. Thank you for being on this journey with us!
 
 ---
 
@@ -184,9 +188,11 @@ And we’ll have a conversation with them about that. We don’t believe we owe 
 
 And I just want the shareholders to appreciate that neither the Ontario Securities Commission nor the SEC regards a shareholder meeting as the appropriate means for fair disclosure. So we really can’t answer those questions in this forum. The right forum for providing revenue guidance is in a quarterly review and in a press release related to our quarterly financial statements.
 
-We’re also not in a position, given that we don’t have much of a backlog of large orders, to provide much revenue guidance. So I wouldn’t be expecting to see anything once we report on the June quarter. Regarding questions about competitors and a comparison of our technology to competitors’ technology, we don’t have all of the information on what competitors are offering.
+We’re also not in a position, given that we don’t have much of a backlog of large orders, to provide much revenue guidance. So I wouldn’t be expecting to see anything once we report on the June quarter.
 
-So I think that until we have that information, if we ever have that information, it’s probably unwise for us to make comparisons between our technology and other companies’ technologies. Just wanted to make that clear. We’re not holding back. It’s just that we don’t have the information. And in the case of the revenue guidance, we’re not in a position to do that at this forum. So we can go to the next question, please.
+Regarding questions about competitors and a comparison of our technology to competitors’ technology, we don’t have all of the information on what competitors are offering. So I think that until we have that information, if we ever have that information, it’s probably unwise for us to make comparisons between our technology and other companies’ technologies.
+
+Just wanted to make that clear. We’re not holding back. It’s just that we don’t have the information. And in the case of the revenue guidance, we’re not in a position to do that at this forum. So we can go to the next question, please.
 
 **Adrian Brijbassi:** And the next question is still on delisting, and I think this might be for Kevin Barnes to answer. What do shareholders need to do to prepare for the delisting?
 
@@ -236,13 +242,13 @@ So we’re happy with that. We’re happy that customers are wanting to come see
 
 ### Market interest in POET Teralight
 
-**Adrian Brijbassi:** Okay. And we’ll ask about POET Teralight. What is it about POET Teralight that is gaining such interest?
+**Adrian Brijbassi:** Okay. And we’ll ask about POET Teralight: What is it about POET Teralight that is gaining such interest?
 
 **Suresh Venkatesan:** Well, I mean, it’s 1.6T for starters, right? So that’s new. Fewer people are working on it, and it’s not yet in high-volume production at any particular module vendors. So a lot of module vendors are looking for solutions for 1.6T and then starting to make their decisions around who they will use and what kind of technology they want to achieve.
 
-So having all of the background with 400, 800, and then putting 1.6T out allows us to kind of get in grounds up into the design cycle. So that’s number one. Number two, we do have the backing of a big player, right? And I think that’s a big deal. So we’re able to get into meetings that we otherwise would have struggled to get into because Mitsubishi is also keen on promoting this laser and its use. And to POET’s advantage, that laser can only exist in an integrated optical engine form factor.
+So having all of the background with 400, 800, and then putting 1.6T out allows us to kind of get in grounds up into the design cycle. So that’s number one. Number two, we do have the backing of a big player, right? And I think that’s a big deal. So we’re able to get into meetings that we otherwise would have struggled to get into because Mitsubishi is also keen on promoting this laser and its use.
 
-It’s difficult to use that laser in that form using conventional assembly techniques. So it marries that laser to the interposer, which is a good thing for POET, especially since we have someone like Mitsubishi marketing it for us, right? So I think it’s gaining a lot of interest with some players that we wouldn’t otherwise have been able to access, which is really good for us.
+And to POET’s advantage, that laser can only exist in an integrated optical engine form factor. It’s difficult to use that laser in that form using conventional assembly techniques. So it marries that laser to the interposer, which is a good thing for POET, especially since we have someone like Mitsubishi marketing it for us, right? So I think it’s gaining a lot of interest with some players that we wouldn’t otherwise have been able to access, which is really good for us.
 
 And I think we just have to go through. 1.6T is right at the beginning, so I think that’s one big reason why we’re getting a lot of interest there.
 
