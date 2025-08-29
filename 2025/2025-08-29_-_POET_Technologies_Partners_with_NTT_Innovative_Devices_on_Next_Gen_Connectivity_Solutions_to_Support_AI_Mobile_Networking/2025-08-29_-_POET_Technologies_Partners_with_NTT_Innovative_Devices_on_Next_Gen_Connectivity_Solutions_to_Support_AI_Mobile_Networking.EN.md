@@ -2,8 +2,8 @@
 
 2025-08-29
 
-Video: <https://www.youtube.com/watch?v=deXTVkV89_w>
-Press release: <https://www.globenewswire.com/news-release/2025/08/29/3141430/0/en/POET-Technologies-Partners-with-NTT-Innovative-Devices-on-Next-Gen-Connectivity-Solutions-to-Support-AI-Mobile-Networking.html>
+- Video: <https://www.youtube.com/watch?v=deXTVkV89_w>
+- Press release: <https://www.globenewswire.com/news-release/2025/08/29/3141430/0/en/POET-Technologies-Partners-with-NTT-Innovative-Devices-on-Next-Gen-Connectivity-Solutions-to-Support-AI-Mobile-Networking.html>
 
 **Adrian Brijbassi:** Exciting news has been announced as POET Technologies will partner with NTT, a Japanese telecom giant on an application specifically for the high-growth AI connectivity market. Here to discuss the news is POET’s Chief Revenue Officer, Raju Kankipati. Raju, what can you tell us about this announcement regarding NTT and POET?
 
