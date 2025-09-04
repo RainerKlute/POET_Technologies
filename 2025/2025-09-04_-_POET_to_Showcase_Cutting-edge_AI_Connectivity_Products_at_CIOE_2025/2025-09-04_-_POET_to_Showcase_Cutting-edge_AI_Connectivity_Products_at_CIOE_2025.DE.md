@@ -1,3 +1,10 @@
+# POET präsentiert bahnbrechende KI-Konnektivitätsprodukte auf der CIOE 2025 
+
+2025-09-04
+
+- Video: <https://www.youtube.com/watch?v=rMg9ojd_pAo>
+- Pressemitteilung: <https://www.globenewswire.com/news-release/2025/09/04/3144448/0/en/POET-Technologies-to-Showcase-Breakthrough-Light-Source-and-1-6T-Optical-Engines-for-AI-and-Cloud-Markets-at-CIOE-2025.html>
+
 **Adrian Brijbassi:** POET beginnt die voraussichtlich arbeitsreichen letzten Monate des Jahres 2025 mit einem Auftritt auf der China International Optoelectronic Expo. Die CIOE findet vom 10. bis 12. September in Shenzhen statt, und unter den Vertretern des Unternehmens wird auch Chief Revenue Officer Raju Kankipati sein. Raju, was erhoffst du dir von der diesjährigen Messe?
 
 **Raju Kankipati:** Danke, Adrian. Für die diesjährige CIOE-Messe haben wir drei Ziele.
