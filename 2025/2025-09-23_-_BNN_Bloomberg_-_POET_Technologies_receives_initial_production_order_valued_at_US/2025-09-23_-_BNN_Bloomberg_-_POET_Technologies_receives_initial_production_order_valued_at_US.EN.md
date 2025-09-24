@@ -5,7 +5,7 @@
 - Video: <https://www.bnnbloomberg.ca/video/shows/the-close/2025/09/23/poet-technologies-receives-initial-production-order-valued-at-us500k/>
 - Press release: <https://www.globenewswire.com/news-release/2025/09/23/3154605/0/en/POET-Technologies-to-Present-at-ECOC-2025.html>
 
-**Interviewer:** POET Technologies is based in Toronto, although it trades on the Nasdaq.
+**Andrew Bell (Interviewer):** POET Technologies is based in Toronto, although it trades on the Nasdaq.
 The market cap is about $540 million U.S. That stock was higher today.
 The company received what it's calling an initial production order from one of its
 lead customers.
@@ -26,7 +26,7 @@ networks.
 We're happy to be an integrator and a provider of these optical engines that are
 used in AI as well as data communication networks.
 
-**Interviewer:** If I was sending signals over a fiber optic network, for example, would I use one
+**Andrew Bell:** If I was sending signals over a fiber optic network, for example, would I use one
 of your devices?
 
 **Suresh Venkatesan:** Yeah, absolutely.
@@ -35,7 +35,7 @@ products, and we had a fantastic showing in China just a week ago on our cutting
 optical engines that we developed in conjunction with Mitsubishi, and that, along with some of our
 scale-up network solutions, we expect that to underpin our growth over the coming years.
 
-**Interviewer:** But are you a startup in the sense that your revenue is not huge, as far as I can see?
+**Andrew Bell:** But are you a startup in the sense that your revenue is not huge, as far as I can see?
 You don't have big, established sales right now?
 
 **Suresh Venkatesan:** Yeah, I guess we're a technologically and functionally a startup, although we do trade on the
@@ -48,7 +48,7 @@ so this is essentially a testament to the team as well as what we discussed on o
 which is to start generating product revenue. Of course, what we announced is in the beginning,
 and we expect that to continue over the next several quarters.
 
-**Interviewer:** Right, yeah. I see your revenue in your latest quarter was almost $270,000.
+**Andrew Bell:** Right, yeah. I see your revenue in your latest quarter was almost $270,000.
 Where was the technology developed, Suresh?
 
 **Suresh Venkatesan:** Well, the technology was largely developed here in the United States, which is where I am,
@@ -57,14 +57,14 @@ facility is based in Singapore with support from our facility in Shenzhen in Chi
 but our manufacturing site is in Penang in Malaysia. But much of the, I guess,
 the brains behind the technology has been developed here in the United States.
 
-**Interviewer:** Right, and what's your Canadian connection then?
+**Andrew Bell:** Right, and what's your Canadian connection then?
 
 **Suresh Venkatesan:** POET is headquartered in Toronto, so we're a foreign public issuer on the U.S. markets,
 but we're fundamentally a Canadian company. We were listed on the Toronto Venture Exchange
 until recently, so I think our genesis and roots are in Canada, and we're still proud to
 be a Canadian company.
 
-**Interviewer:** That's interesting. What do your devices do that existing ones don't?
+**Andrew Bell:** That's interesting. What do your devices do that existing ones don't?
 
 **Suresh Venkatesan:** What POET provides is what we call chip-scale wafer-level manufacturing. This is
 not indistinct from what semiconductors do in the world today, but the world of optics has
@@ -78,7 +78,7 @@ important, and so we've been trailblazing our interposer concept that provides t
 wafer-scale semiconductor-like manufacturing processes to the world of optics that heretofore
 has largely relied on, I would say, discrete assembly as opposed to integrated assembly.
 
-**Interviewer:** That's fascinating that the photonics or optronics world has been slightly behind
+**Andrew Bell:** That's fascinating that the photonics or optronics world has been slightly behind
 the regular semiconductor industry in that sense.
 
 **Suresh Venkatesan:** Oh, absolutely. I think leading-edge semiconductors, of course, trailblaze and then
@@ -94,5 +94,5 @@ power, especially in these new artificial intelligence systems and networks. We'
 with the position we're in and we're capitalizing on the interest of our customers
 and collaborating with them to develop new solutions.
 
-**Interviewer:** Suresh, thanks very much indeed. Suresh Venkatesan is the executive
+**Andrew Bell:** Suresh, thanks very much indeed. Suresh Venkatesan is the executive
 chairman and CEO at POET Technologies.
